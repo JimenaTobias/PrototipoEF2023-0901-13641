@@ -1,0 +1,16 @@
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\bin\Debug\Vista_Prototipo.exe.config
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\bin\Debug\Vista_Prototipo.exe
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\bin\Debug\Vista_Prototipo.pdb
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\obj\Debug\Vista_Prototipo.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\obj\Debug\Vista_Prototipo.Properties.Resources.resources
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\obj\Debug\Vista_Prototipo.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\obj\Debug\Vista_Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\obj\Debug\Vista_Prototipo.exe
+C:\Users\jimen\source\repos\Prototipo\Vista_Prototipo\obj\Debug\Vista_Prototipo.pdb
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Vista_Prototipo\obj\Debug\Vista_Prototipo.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Vista_Prototipo\obj\Debug\Vista_Prototipo.Properties.Resources.resources
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Vista_Prototipo\obj\Debug\Vista_Prototipo.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Vista_Prototipo\obj\Debug\Vista_Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Vista_Prototipo\obj\Debug\Vista_Prototipo.exe
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Vista_Prototipo\obj\Debug\Vista_Prototipo.pdb
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Vista_Prototipo\obj\Debug\Vista_Prototipo.Login.resources

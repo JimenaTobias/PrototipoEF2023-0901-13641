@@ -1,0 +1,15 @@
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\bin\Debug\Modelo_Prototipo.exe.config
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\bin\Debug\Modelo_Prototipo.exe
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\bin\Debug\Modelo_Prototipo.pdb
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.Properties.Resources.resources
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.exe
+C:\Users\jimen\source\repos\Prototipo\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.pdb
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.csproj.AssemblyReference.cache
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.Properties.Resources.resources
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.csproj.GenerateResource.cache
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.exe
+C:\Users\jimen\source\repos\PrototipoEF2023-0901-13641\Modelo_Prototipo\obj\Debug\Modelo_Prototipo.pdb
